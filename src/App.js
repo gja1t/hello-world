@@ -6,6 +6,7 @@ function App() {
       <h1>Hello World!</h1>
       <p>Welcome to my first React app hosted on GitHub Pages.</p>
       <p>Yeeeeeeej! :-)</p>
+      <p>end</p>
     </div>
   );
 }
